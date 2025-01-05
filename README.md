@@ -1,7 +1,6 @@
-=== PUBLIC RELEASE V1.0 === 
+Concept for a P2P RSA encrypted chat app
 
-Back-end base for a PHP website using P2P RSA encryption to maintain user anonimity and privacy. 
+Only Backend
 
-Server does not store private keys nor has any means to de-crypt messages.
-
+You can test without a DB by simulating a .php file with the sender name, receiver name and date
 
